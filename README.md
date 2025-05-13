@@ -2,8 +2,7 @@
 
 # 🕵️‍♂️ Los Angeles Crime Data Analysis (2020 - Present)
 
-This project explores and visualizes the Los Angeles Crime dataset from 2020 to the present. The dataset includes detailed records of crime incidents, including location, time, victim demographics, weapon type, and more. The main goal of this project was to clean the data, perform feature engineering, carry out EDA, and use unsupervised clustering (K-Means) to identify patterns in the data.
-
+This project explores and visualizes the Los Angeles Crime dataset from 2020 to the present. The dataset includes detailed records of crime incidents, including location, time, victim demographics, weapon type, and more. The main goal of this project was to clean the data, perform feature engineering, carry out EDA and Visualize the data 
 
 ## 📊 Dataset Overview
 
